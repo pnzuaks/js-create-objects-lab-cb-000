@@ -1,5 +1,5 @@
 'use strict';
 
-function Dog() {
-  
+function Dog(name, breed, ag) {
+
 }
