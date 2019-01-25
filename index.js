@@ -18,6 +18,11 @@ function Ferret(name, age, foodRequirements) {
   this.foodRequirements = foodRequirements
 }
 
+function Bird(name, breed) {
+  this.name = name
+  this.breed = breed
+}
+
 function Cat(name, breed, age) {
   this.name = name
   this.breed = breed
