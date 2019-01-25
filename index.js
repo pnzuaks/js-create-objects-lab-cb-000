@@ -23,8 +23,8 @@ function Bird(name, breed) {
   this.breed = breed
 }
 
-function Fish(name, species, age) {
+function Fish(name, species, waterConditions) {
   this.name = name
-  this.species = breed
-  this.age = age
+  this.species = species
+  this.waterConditions = waterConditions
 }
