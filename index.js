@@ -23,8 +23,8 @@ function Bird(name, breed) {
   this.breed = breed
 }
 
-function Cat(name, breed, age) {
+function Fish(name, species, age) {
   this.name = name
-  this.breed = breed
+  this.species = breed
   this.age = age
 }
